@@ -12,7 +12,7 @@ Frontend must be based on some framework. You can use React or Vue or whatever f
 ### Part 1; Implement a basic form page
 
 - Create a page where you have a form. The form should contain the following fields. `userDID`, `ethAddress`, `facebookId`, `twitterHandle`. 
-- Once user click on the `Submit` button, it you call an API `/save` to store this information. (you will create the API in the next section)
+- Once user click on the `Submit` button, it will call a POST `/user` API to store this information. (you will create the API in the next section)
 
 ### Part 2: Implement Hypersign auth
 
