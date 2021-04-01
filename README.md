@@ -9,12 +9,12 @@ You need to create a WebApp connected with a node js server which exposes an api
 
 Frontend must be based on some framework. You can use React or Vue or whatever framework of your choice.
 
-### Part 1
+### Part 1; Implement a basic form page
 
 - Create a page where you have a form. The form should contain the following fields. `userDID`, `ethAddress`, `facebookId`, `twitterHandle`. 
 - Once user click on the `Submit` button, it you call an API `/save` to store this information. (you will create the API in the next section)
 
-### Part 2
+### Part 2: Implement Hypersign auth
 
 - You need to design a login page for this app. (No need for registration)
 - The login page should have a QR code and user will use [Hypersign Identity Wallet (mobile app)](https://play.google.com/store/apps/details?id=com.hypersign.cordova) to login into your webapp. [Here](https://hsdev.netlify.app/studio/login) is how an example website with passwordless login looks like (I encourage you to try to login into this site and see the user expereice, before proceeding)
@@ -42,7 +42,7 @@ The key of Map should be `userDID`;
 
 When you call `/fetch` api, it should return list of all objects. 
 
-### Part 2: Implement Hypersign autentication and authorization 
+### Part 2: Implement Hypersign auth
 
 - Once this is done, you need to implement authentication to protect your GET and POST apis from unauthorized access. 
 - For that you need to use Hypersign Passwordless authentication. Follow [implementation documenation](https://vishwas-anand-bhushan.gitbook.io/hypersign/developer/sdk/dev-nodejs) to implement Hypersign auth in your project.
