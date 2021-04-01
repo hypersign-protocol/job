@@ -1,6 +1,6 @@
 # Coding test for fullstack engineer
 
-You need to create a WebApp connected with a node js server which exposes an api to store an data with respect to user. You do not need database connections, can use in-memory store. See the architecture. 
+You need to create a WebApp connected with a node js server which exposes an api to store data with respect to user. You do not need database connections, can use in-memory store. See the architecture.
 
 ![image](https://user-images.githubusercontent.com/15328561/113234757-81dbb300-92bf-11eb-9dd8-edb68d3a01c9.png)
 
@@ -25,7 +25,7 @@ Frontend must be based on some framework. You can use React or Vue or whatever f
 
 ### Part 1; Implement two basic APIs
 
-This is nodejs based express server which exposes one POST API called `/save` and one get API `/fetch`. When you hit `/save` API by passing JSON object in the request body, it should be able to store the object in a Map.
+This is nodejs based express server which exposes one POST API called `/user` and one get API `/user`. When you hit `/user` API by passing JSON object in the request body, it should be able to store the object in a Map.
 
 The object should look like this:
 
@@ -40,7 +40,7 @@ The object should look like this:
 
 The key of Map should be `userDID`;
 
-When you call `/fetch` api, it should return list of all objects. 
+When you call GET `/user` api, it should return list of all objects. 
 
 ### Part 2: Implement Hypersign auth
 
@@ -65,7 +65,7 @@ When you call `/fetch` api, it should return list of all objects.
 
 1 week
 
-## What we want to judge?
+## What we want to evaluate?
 
 - We want to know if you have basic knowledge of end-to-end developement or not?
 - End to end includes, basic UI, basic APIs, concept of GIT, basic research.
