@@ -25,7 +25,7 @@ Frontend must be based on some framework. You can use React or Vue or whatever f
 
 ### Part 1; Implement two basic APIs
 
-This is nodejs based express server which exposes one POST API called `/user` and one get API `/user`. When you hit `/user` API by passing JSON object in the request body, it should be able to store the object in a Map.
+This is nodejs based express server which exposes one POST API called `/user` and one get API `/user`. When you hit POST `/user` API by passing JSON object in the request body, it should be able to store the object in a Map.
 
 The object should look like this:
 
