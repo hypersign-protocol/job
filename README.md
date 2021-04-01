@@ -73,7 +73,7 @@ When you call `/fetch` api, it should return list of all objects.
 
 ## Lastly
 
-> You must know that we really want to hire you. If you need any help or get stucked anywhere,  immediately reach out to us. 
+> You must know that we really want to hire you. If you need any help or get stucked anywhere,  immediately reach out to us. Good Luck!
 
 
 
