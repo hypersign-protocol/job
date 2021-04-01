@@ -1,6 +1,6 @@
 # This is what you have to do
 
-You need to create a WebApp connected with a node js server which exposes an api to store an objects (you do not need database connections, can use in-memory store). See the architecture. 
+You need to create a WebApp connected with a node js server which exposes an api to store an data with respect to user. You do not need database connections, can use in-memory store. See the architecture. 
 
 ![image](https://user-images.githubusercontent.com/15328561/113234757-81dbb300-92bf-11eb-9dd8-edb68d3a01c9.png)
 
@@ -63,6 +63,12 @@ Once this is done, you need to implement authentication to protect your GET and 
 ## Timeline
 
 1 week
+
+## What we want to judge?
+
+- We want to know if you have basic knowledge of end-to-end developement or not?
+- End to end includes, basic UI, basic APIs, concept of GIT, basic research.
+- We want to know if you have given a new thing to study, how much egar you are to learn and try things out?
 
 ## Lastly
 
