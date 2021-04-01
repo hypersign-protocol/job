@@ -44,7 +44,8 @@ When you call `/fetch` api, it should return list of all objects.
 
 ### Part 2: Implement Hypersign autentication and authorization 
 
-Once this is done, you need to implement authentication to protect your GET and POST apis from unauthorized access. For that you need to use Hypersign Passwordless authentication. Follow [implementation documenation](https://vishwas-anand-bhushan.gitbook.io/hypersign/developer/sdk/dev-nodejs) to implement Hypersign auth in your project.
+- Once this is done, you need to implement authentication to protect your GET and POST apis from unauthorized access. 
+- For that you need to use Hypersign Passwordless authentication. Follow [implementation documenation](https://vishwas-anand-bhushan.gitbook.io/hypersign/developer/sdk/dev-nodejs) to implement Hypersign auth in your project.
 
 ## How can I submit the code?
 
