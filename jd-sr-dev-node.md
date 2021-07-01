@@ -26,6 +26,7 @@ We are looking for sr. backend developer, though we don't believe in number of y
 - Apart from cool team, you will get decent hike on your existing salary.
 - We will also allocate decent amount of $HID tokens since you will be core team member.
 - This is remote work and we are NOT into 9-5 job. :) 
+- More we can discuss.
 
 > Reach out to us https://hypersign.id/ or email us connect@hypermine.in
 
