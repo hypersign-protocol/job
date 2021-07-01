@@ -29,6 +29,7 @@ We are looking for sr. backend developer, though we don't believe in number of y
 \- Our goal is to solve password problem (by completely eliminating it) and our vision is towards building privacy preserving solutions for our users and empowering users with their data - we hate data silos, they are evil!
 
 \- If you are align with our vision, you are most welcome.  It is perfectly fine if you don't know a particular tech (they can be learnt) but our thought process should match. 
+- One last thing, if you are fan of web series like Big Bang Theory, Dark, Friends etc. you are hired! (just kidding)
 
 **What will you get as incentive?**
 
