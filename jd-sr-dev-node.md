@@ -10,7 +10,7 @@ We are looking for sr. backend developer, though we don't believe in number of y
 - Sometime you might have to design the architecture of the application, so you should be ready to understand full picture of the product. 
 - You should have some experience (or atleast have egerness to learn) with building scalable solution. We work with distributed systems. 
 - One most important thing, be ready to hustle and learn a lot. 
-- Required tech stack: Javascript,  Node js and related technologies like babel, webpack blah blah blah
+- Required tech stack: Javascript,  Node js and related technologies like babel, webpack blah blah blah!
 
 **Who are we and what kind of people we are?**
 
