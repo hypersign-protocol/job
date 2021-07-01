@@ -1,4 +1,4 @@
-## Job profile for Sr. Node js Backend Engineer
+## JD for Sr. Node js Backend Engineer
 
 We are looking for sr. backend developer, though we don't believe in number of years. Even if you have spent couple of years hustling and you think you can take up the following tasks, feel free to reach out to us with an informal CV (We don't believe in this either lol) and with your Github account (mandatory). 
 
