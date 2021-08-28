@@ -17,7 +17,7 @@ Frontend must be based on some framework. You can use React or Vue or whatever f
 ### Part 2: Implement Hypersign auth
 
 - You need to design a login page for this app. (No need for registration)
-- The login page should have a QR code and user will use [Hypersign Identity Wallet (mobile app)](https://play.google.com/store/apps/details?id=com.hypersign.cordova) to login into your webapp. [Here](https://hsdev.netlify.app/studio/login) is how an example website with passwordless login looks like (I encourage you to try to login into this site and see the user expereice, before proceeding)
+- The login page should have a QR code and user will use [Hypersign Identity Wallet (mobile app)](https://play.google.com/store/apps/details?id=com.hypersign.cordova) to login into your webapp. [Here](https://fidato.hypersign.id/app/admin/login) is how an example website with passwordless login looks like (I encourage you to try to login into this site and see the user expereice, before proceeding)
 - Once user logged in, he can fill the above form described in Part 1 of the problem. 
 - If user has already doen the submittion, he should see his detail. 
 
