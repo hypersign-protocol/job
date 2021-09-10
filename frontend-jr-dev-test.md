@@ -1,4 +1,4 @@
-# Design the component for the following page
+# Design the follow page
 
 ## Login Page
 
