@@ -11,7 +11,7 @@ Upon clicking on `Login Using Hypersign` user should go to `Home Page`.
 
 ## Home Page
 
-Design the Home page like this.
+Design the Home page like this. Show the `score button` on the header of collapsible. Once use clicks on that button mock a API call and change that button to tick mark. 
 
 ![image](https://user-images.githubusercontent.com/15328561/132891859-5fcb2064-2985-444b-86e2-d12754228707.png)
 
