@@ -15,4 +15,9 @@ Design the Home page like this.
 
 ![image](https://user-images.githubusercontent.com/15328561/132891859-5fcb2064-2985-444b-86e2-d12754228707.png)
 
+## Evaluation metric
+
+- We want to see how you design components for this task.
+- It would be good if you design responsive page which can work in mobile as well as desktop
+- Add color for getting extra points.
 
